@@ -41,7 +41,8 @@ How it works:
 5) When the program starts,it loads this list from the file. When You add,update or delete it saves the list back so nothing is lost.
    
 Sample Student Output:
-  Student [Id=1, name=John Doe, age=20, course=Computer Science]
+          
+          Student [Id=1, name=John Doe, age=20, course=Computer Science]
 
  
 

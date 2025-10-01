@@ -34,11 +34,11 @@ A simple console-based Java application to manage student records. It supports a
       6) Exit
          
 How it works:
-    1) Run the application the prgoram shows the menu with options.
-    2) Choose any option based on your option it will show or ask some data if you choose addStudent it will ask student details..etc.
-    3) Exit the program stops running.
-    4)The list of students is saved ini a file Students.dat using java serialization.
-    5) When the program starts,it loads this list from the file. When You add,update or delete it saves the list back so nothing is lost.
+1) Run the application the prgoram shows the menu with options.
+2) Choose any option based on your option it will show or ask some data if you choose addStudent it will ask student details..etc.
+3) Exit the program stops running.
+4)The list of students is saved ini a file Students.dat using java serialization.
+5) When the program starts,it loads this list from the file. When You add,update or delete it saves the list back so nothing is lost.
    
 Sample Student Output:
   Student [Id=1, name=John Doe, age=20, course=Computer Science]

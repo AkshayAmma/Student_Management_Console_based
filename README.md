@@ -4,10 +4,10 @@ A simple console-based Java application to manage student records. It supports a
 
 
  📁 Project Structure
- -> Main.java - Main class with user interface and program entry point
- -> Student.java - Student Model Class (implements Serializable)
- -> StudentService.java - Service class Containing business logic and data handeling
- -> Students.dat - Data file storing serialized list of students
+ 1) Main.java - Main class with user interface and program entry point
+ 2) Student.java - Student Model Class (implements Serializable)
+ 3) StudentService.java - Service class Containing business logic and data handeling
+ 4) Students.dat - Data file storing serialized list of students
 
 
  🛠 Requirements
